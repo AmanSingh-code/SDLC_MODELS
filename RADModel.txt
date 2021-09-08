@@ -1,0 +1,41 @@
+RAD:--(Rapid Application Development)
+
+Rapid application development is a software development methodology that uses minimal planning in favor of rapid prototyping. 
+A prototype is a working model that is functionally equivalent to a component of the product.
+In the RAD model, the functional modules are developed in parallel as prototypes and are integrated to make the complete product for faster product delivery. 
+Since there is no detailed preplanning, it makes it easier to incorporate the changes within the development process.
+RAD projects follow iterative and incremental model and have small teams comprising of developers, domain experts, customer representatives 
+and other IT resources working progressively on their component or prototype.
+The most important aspect for this model to be successful is to make sure that the prototypes developed are reusable.
+
+RAD Model Design:
+RAD model distributes the analysis, design, build and test phases into a series of short, iterative development cycles.
+
+---------------Various phases of RAD Model---------------------------------->
+i)Business Modelling
+ii)Data Modelling
+iii)Process Modelling
+iv)Application Generation
+v)Testing and Turnover
+
+---------------The advantages of the RAD Model are as follows −--------------->
+i)Changing requirements can be accommodated.
+ii)Progress can be measured.
+iii)Iteration time can be short with use of powerful RAD tools.
+iv)Productivity with fewer people in a short time.
+v)Reduced development time.
+vi)Increases reusability of components.
+vii)Quick initial reviews occur.
+viii)Encourages customer feedback.
+ix)Integration from very beginning solves a lot of integration issues.
+
+--------------The disadvantages of the RAD Model are as follows −-------------->
+i)Dependency on technically strong team members for identifying business requirements.
+ii)Only system that can be modularized can be built using RAD.
+iii)Requires highly skilled developers/designers.
+iv)High dependency on Modelling skills.
+v)Inapplicable to cheaper projects as cost of Modelling and automated code generation is very high.
+vi)Management complexity is more.
+vii)Suitable for systems that are component based and scalable.
+viii)Requires user involvement throughout the life cycle.
+ix)Suitable for project requiring shorter development times.
